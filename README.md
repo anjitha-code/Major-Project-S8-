@@ -1,3 +1,5 @@
+Gamify App
+
 Objective
 
 Develop a mobile application that employs gamification strategies to encourage students to establish productive study routines.
